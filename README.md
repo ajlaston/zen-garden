@@ -1,4 +1,4 @@
 # zen-garden
 HTML/CSS Project
 
-DEMO: https://zen-garden-ajlaston.netlify.app/
+DEMO: https://amazing-squirrel-f45566.netlify.app/
